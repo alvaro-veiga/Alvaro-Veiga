@@ -63,6 +63,7 @@
 #### Cloud:
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  align="center" height="30" width="40"  />
+  <img src="https://railway.app/brand/logo-dark.svg" align="center" height="30" width="40"  />
 </div>
 
 <div align="center">
