@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_allystor" target="blank"><img src="https://img.shields.io/twitter/follow/AlvaroVeiga?logo=twitter&style=for-the-badge" alt="alvaro veiga"  </p>
 
 - 🔭 I’m currently working on **Full Stack Developer**
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I have a degree in **software engineering**
 - 🕵️‍♂️ I also do learning as an **Ethical Hacker** and **CyberSecurity**
 - 📫 How to reach me **alvaro.veiga.dev@gmail.com**
 
