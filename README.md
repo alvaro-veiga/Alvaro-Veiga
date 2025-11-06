@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on **Full Stack Developer**
 - 🌱 I have a degree in **software engineering**
-- 🕵️‍♂️ I also do learning as an **Ethical Hacker** and **CyberSecurity**
 - 📫 How to reach me **alvaro.veiga.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
