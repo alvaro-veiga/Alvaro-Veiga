@@ -20,14 +20,8 @@
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://twitter.com/_allystor" target="blank">
-<img src="https://img.shields.io/twitter/follow/AlvaroVeiga?logo=twitter&style=for-the-badge" />
-</a>
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-jo%C3%A3o-da-silva-veiga/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/alvaro.veigones/" target="blank">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
 </a>
 </p>
 
