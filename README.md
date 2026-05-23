@@ -147,11 +147,6 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaro-veiga&show_icons=true&layout=compact&theme=tokyonight&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaro-veiga&show_icons=true&theme=tokyonight&border_radius=10" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvaro-veiga&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
@@ -165,15 +160,6 @@
 - 🔐 Autenticação e segurança de aplicações
 - 🚀 Arquitetura de sistemas escaláveis
 - 📈 Machine Learning e Processamento de linguagem natural
-
----
-
-## 🎯 Meus Objetivos
-
-- [ ] Contribuir mais em projetos open source
-- [ ] Aprofundar conhecimento em arquitetura de sistemas distribuídos
-- [ ] Publicar artigos técnicos sobre IA e Backend
-- [ ] Mentorizar desenvolvedores iniciantes
 
 ---
 
