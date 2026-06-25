@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvendo%20soluções%20inteligentes;Com%20FastAPI%20e%20LLMs;Transformando%20ideias%20em%20código;Backend%20%2B%20AI%20Focused&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvendo%20soluções%20inteligentes;Com%20Django,%20FastAPI%20e%20LLMs;Transformando%20ideias%20em%20código;Backend%20%2B%20AI%20Focused&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" />
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -24,7 +24,7 @@
 - 🔭 **Atualmente:** Full Stack Developer com foco em Backend & AI
 - 🧠 **Especialização:** LLMs, Agents e soluções de IA com LangChain & LangGraph
 - 🎓 **Formação:** Engenharia de Software
-- 💡 **Stack Principal:** Python, FastAPI, PostgreSQL e tecnologias de IA
+- 💡 **Stack Principal:** Python, Django, FastAPI, PostgreSQL e tecnologias de IA
 - 🎯 **Objetivo:** Construir sistemas escaláveis e inteligentes
 - 📫 **Email:** alvaro.veiga.dev@gmail.com
 
